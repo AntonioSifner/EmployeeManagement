@@ -1,0 +1,31 @@
+﻿.btn{
+    width: 75px;
+}
+
+.card-deck{
+    display:flex;
+    justify-content: center;
+    max-width:70%;
+    margin: 0 auto;
+    flex-flow: row wrap;
+}
+
+.klasa{
+    width:70%;
+    margin: 0 auto;
+}
+
+input{
+    width:100%;
+    margin-bottom:10px;
+}
+
+.imageThumbnail{
+    height: 200px;
+    width: auto;
+}
+
+.klasa2 {
+    width: 70%;
+    margin: 0 auto;
+}
